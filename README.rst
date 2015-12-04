@@ -10,9 +10,7 @@
 
 
 ```
-
-$ python word.py username password 10
-
+ python word.py username password 10
 
 ```
 
