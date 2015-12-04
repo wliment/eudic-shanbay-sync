@@ -10,7 +10,10 @@
 
 
 ```
+
 $ python word.py username password 10
+
+
 ```
 
 username password 为欧路辞典的网站账户 http://dict.eudic.net/
