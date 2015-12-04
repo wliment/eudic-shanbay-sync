@@ -1,6 +1,5 @@
 欧路辞典单词本同步到扇贝工具
 
-```
 
 ```
 python word.py username password 10
