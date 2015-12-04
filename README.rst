@@ -9,7 +9,7 @@
 同步欧路辞典的单词本到扇贝单词本:
 
 
-```ruby
+```
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
